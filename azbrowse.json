@@ -1,19 +1,19 @@
 {
-    "version": "1.1.510",
+    "version": "1.1.514",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/lawrencegripper/azbrowse/releases/download/v1.1.510/azbrowse_windows_386.zip",
+            "url": "https://github.com/lawrencegripper/azbrowse/releases/download/v1.1.514/azbrowse_windows_386.zip",
             "bin": [
                 "azbrowse.exe"
             ],
-            "hash": "da15d6a10974d5229d6bba69aa6befd4eed9a2f64e4cc64164f707d64e8e43c2"
+            "hash": "794274f3c8af2c207aa59a2f80c28dcab896b31fda76e81283a387eaf497a9e2"
         },
         "64bit": {
-            "url": "https://github.com/lawrencegripper/azbrowse/releases/download/v1.1.510/azbrowse_windows_amd64.zip",
+            "url": "https://github.com/lawrencegripper/azbrowse/releases/download/v1.1.514/azbrowse_windows_amd64.zip",
             "bin": [
                 "azbrowse.exe"
             ],
-            "hash": "b817761e43043b21cb5cf28570276934b5c5f011d7a380579d9adae0d874359f"
+            "hash": "a9243ee0f9d0763e697c147fe3200dbae7cd6aa154818a2043bd9545bca96f39"
         }
     },
     "homepage": "https://github.com/lawrencegripper/azbrowse",
